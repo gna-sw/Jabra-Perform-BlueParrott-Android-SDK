@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context="com.blueparrott.connectsample.MainActivity"
+    tools:layout_editor_absoluteY="81dp">
+
+
+
+    <!-- Custom class required just to get over the need to implement accessibility and implement onPerformClick -->
+    <TextView
+        android:id="@+id/btnTalk"
+        android:layout_width="325dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="24dp"
+        android:gravity="center"
+        android:padding="15dp"
+        android:text="@string/button_state_disconnected"
+        android:textAllCaps="false"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="#FFF"
+        android:textSize="28sp"
+        android:textStyle="normal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!--  log display -->
+    <ScrollView
+
+        android:id="@+id/scScrollView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="24dp"
+        android:layout_weight="3"
+        android:background="#000"
+        android:textColor="#FFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnTalk"
+        app:layout_constraintVertical_bias="1.0">
+
+        <TextView
+            android:id="@+id/tvLog"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:fontFamily="monospace"
+            android:gravity="top"
+            android:padding="10dp"
+            android:text=""
+
+            android:textColor="#FFF"
+            android:textSize="14sp" />
+
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

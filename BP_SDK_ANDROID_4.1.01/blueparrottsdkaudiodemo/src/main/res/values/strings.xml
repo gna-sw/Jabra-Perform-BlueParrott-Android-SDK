@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Blueparrott SDK Audio Demo</string>
+
+    <string name="audio_status_idle">Press &amp; Hold\nto Record</string>
+    <string name="audio_status_waiting_sco">Waiting for \nBluetooth SCO</string>
+    <string name="audio_status_recording">Recording</string>
+    <string name="audio_status_playing">Playing</string>
+
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Blueparrott SDK Connection Demo</string>
+
+    <string name="button_state_disconnected">BP Button disconnected</string>
+    <string name="button_state_connected">BP Button Connected</string>
+    <string name="button_state_connecting">BP Button Connecting</string>
+    <string name="button_state_down">BP Button Pressed</string>
+    <string name="button_state_up">BP Button Released</string>
+
+</resources>
