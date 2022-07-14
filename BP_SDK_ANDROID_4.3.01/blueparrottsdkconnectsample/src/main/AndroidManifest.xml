@@ -1,0 +1,61 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.blueparrott.connectsample">
+
+    <!-- when phone boots, this is necessary to boot the Receiver that starts the
+    SDKConnectionService and the RecPlayAudioService in the background-->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+
+
+    <!-- Request legacy Bluetooth permissions on older devices. -->
+    <uses-permission android:name="android.permission.BLUETOOTH" android:maxSdkVersion="30" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" android:maxSdkVersion="30" />
+
+    <!-- Needed to connect on Android 12+ if your app looks for and connects over Bluetooth low Energy -->
+    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+
+    <!-- Needed only if your app looks for and connects over Bluetooth low Energy on Android 12+ -->
+    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" android:usesPermissionFlags="neverForLocation" />
+
+    <!-- Legacy permissions to scan over BLE prior to Android 12-->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /><!--bizarrely required on android 6.0 to get at ble https://code.google.com/p/android/issues/detail?id=189090 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- Pie requires this..-->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.blueparrott.connectsample.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- starts on boot- Note that some devices (e.g. Huawei) require the user to explicitly give permission in Settings for specific apps to start -->
+        <receiver
+            android:name="com.blueparrott.connectsample.StartServicesOnBoot"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+            </intent-filter>
+        </receiver>
+
+        <!-- foreground ervice that monitors for bluetooth changes -->
+        <service
+            android:name="com.blueparrott.connectsample.SdkConnectionService"
+            android:enabled="true" />
+
+
+    </application>
+</manifest>
