@@ -1,0 +1,113 @@
+For Use of the Website, Software Developer Kits and Developing Apps
+1. General
+1.1 - Any use of software developer kits, software, services and web sites (hereinafter the "Services") which GN Audio A/S (hereinafter "GN Audio") or its subsidiaries in its discretion makes available to [DEVELOPER] (hereinafter “Developer) is subject to these terms and conditions (herein after the "Terms") which shall form a legally binding agreement between you and GN Audio.
+
+2. Acceptance
+The Terms will be accepted by the parties effective on the date of the second signature below.
+
+3. Provision of Services
+3.1 - GN Audio will provide at least 90 days prior written notice before discontinuing or materially changing the Services.
+
+4. Use of Services
+4.1 - You warrant that you shall only use the Services in accordance with the Terms and any applicable law, regulation or generally accepted practices in your jurisdictions. Should GN Audio discover that your use of the Services are not in compliance with the Terms or any applicable law, regulation or generally accepted practice, GN reserves the right to suspend or terminate you use of the Services and hold you liable for such breach.
+
+4.2 - You warrant that you shall only access the Services through the interface provided by GN Audio. Furthermore, you warrant at all times to comply with the instructions provided by GN and not to access (or attempt to access) the Services through any automated means.
+
+4.3 - You warrant at any time not to participate in any activity which will unreasonably interfere with or disrupt the Services or is likely to do so.
+
+4.4 - You warrant that you shall be solely responsible for any breach of your obligations under the Terms.
+
+5. Passwords and Account Security
+5.1 - You shall at all times keep your password(s) strictly confidential. Any activity in your account shall be your sole responsibility. If you discover any unauthorized use of your password or your account, you shall notify GN Audio hereof immediately by sending an email to developersupport@jabra.com.
+
+6. GN Audio's Privacy Policy Concerning Use and Storage of Personal Information
+6.1 – GN Audio will not collect or process any personal data under this agreement. Without limitation to the foregoing, if GN Audio receives any personal data under this agreement it will process this data in accordance with its data protection policy available at: https://www.jabra.co.uk/footerpages/disclaimerTerms & Conditions, which may be changed from time to time without prior notice.
+
+7. Content
+7.1 - You agree that all information (including computer software, audio files, pictures and videos) displayed as part of or alongside the Services (hereinafter the "Content") shall be the sole responsibility of the person from which such content originated. Such Content may be the intellectual property right of GN Audio or a third party.
+
+7.2 – GN Audio shall be entitled, but not obligated, to pre-screen, examine, modify, filter, refuse or remove any and all Content. GN Audio shall have no liability for any Content and you accept that you may be exposed to Content which you find offensive or indecent.
+
+7.3 - You shall be solely responsible for any Content that is created, transmitted or displayed though your account.
+
+8. Proprietary Rights
+8.1 - You accept that GN Audi and GN Audio's licensors shall be the sole owner of all legal rights, title and interest in and to the Services, including any intellectual property rights, whether such rights are registered or not. You warrant not to remove or alter any proprietary notices which are affixed to or contained within the Services. Furthermore, you understand that the Services may contain confidential information which you may not disclose without GN Audio's prior written consent, such consent not to be unreasonably withhold.
+
+8.2 – Except as in order to perform under these Terms, you may under no circumstances use GN Audio's name, trade name, logo, domain names, trademarks, designs, slogans or other distinctive brand features without the prior written consent of GN.
+
+8.3 - Subject to the limited license in Section 10, GN Audio accepts that you shall be the sole owner of all legal rights, title and interest in or to any Content that you submit, post, transmit or display on, or through, the Services. GN shall have no obligation to protect or enforce such rights.
+
+9. License From GN
+9.1 – GN Audio herby grants to you a personal and enterprise, worldwide, royalty-free, non-assignable and non-exclusive license to use, and sublicense the right to use (including through multiple tiers and for modified works) – in accordance with the Terms – any Services provided by GN Audio under this Agreement.
+
+9.2 – Services provided by GN Audio may only be used to develop applications designed for use in connection with GN Audio's products.
+
+10. Termination
+10.1 - The Terms shall apply until they are terminated by you or GN Audio in accordance with the terms set out below.
+
+10.2 - You may terminate this Agreement at any time by (a) notifying GN Audio hereof in writing or (b) close all your accounts. Your notice should be sent, in writing, to developersupport@jabra.com.
+
+10.3 – GN Audio may terminate this Agreement at any time if:
+(a) You have breached the Terms; or
+(b) GN Audio is required to do so by law; or
+(c) The partner with whom GN Audio offered the Services to you has terminated its relationship with GN Audio or ceased to offer the Services; or
+(d) For convenience, with at least 180 days’ prior written notice.
+
+10.4 - Nothing in this Section shall affect GN Audio's other rights according to the Terms.
+
+10.5 - Upon termination of the Terms (in part or in whole), all of the legal rights, obligations and liabilities shall cease to exist, unless they are expressly or by their nature determined to continue indefinitely, in which case they shall be unaffected by the termination.
+
+11. WARRANTES AND EXCLUSION OF WARRANTIES
+11.1 GN AUDIO REPRESENTS AND WARRANTS THAT:
+(A) THE SOFTWARE, SERVICES AND ANY OTHER MATERIALS PROVIDED TO YOU WILL NOT CONTAIN ANY UNDISCLOSED MALICIOUS TECHNOLOGY. “MALICIOUS TECHNOLOGY” MEANS ANY SOFTWARE, ELECTRONIC, MECHANICAL OR OTHER MEANS, DEVICE OR FUNCTION (E.G. KEY NODE, COUNTER, LOCK, TIME-OUT, “BACK DOOR,” “TRAPDOOR,” “BOOBY TRAP,” “DROP DEAD DEVICE,” “DATA SCRAMBLING DEVICE,” “TROJAN HORSE”) THAT: (I) ALLOW GN AUDIO OR A THIRD-PARTY TO MONITOR OR GAIN UNAUTHORIZED ACCESS TO ANY SYSTEM, NETWORK, PROGRAM OR A CONNECTED DEVICE, (II) ALLOW GN AUDIO OR A THIRD-PARTY TO RESTRICT, DISABLE, LIMIT, OR IMPAIR THE PERFORMANCE OF A NETWORK, SYSTEM, PROGRAM OR A CONNECTED DEVICE, EITHER DIRECTLY, INDIRECTLY, AUTOMATICALLY, OR BASED UPON ANY TRIGGERING EVENT INCLUDING TIME; (III) CONTAIN ANY FILES OR FEATURES THAT WILL DISABLE, DAMAGE, OR DESTROY ANY FUNCTIONALITY OF ANY NETWORK, PROGRAM OR SYSTEM, OR A CONNECTED DEVICE; OR (IV) ACCESS, TRANSMIT, ALTER, DAMAGE, OR ERASE ANY DATA OR COMPUTER PROGRAMS WITHOUT CONTROL OF A PERSON OPERATING THE COMPUTING EQUIPMENT ON A SYSTEM, NETWORK, PROGRAM OR A CONNECTED DEVICE;
+(B) THE SOFTWARE AND SERVICES DO NOT INFRINGE ON THE INTELLECTUAL PROPERTY RIGHTS OF ANY THIRD PARTY. EXCLUDED FROM THIS WARRANTY IS INFRINGEMENT ARISING FROM (I) CHANGES OR MODIFICATIONS MADE BY THE LICENSEE, (II) NEW FEATURES ADDED BY THE LICENSEE, (III) USE NOT IN COMPLIANCE WITH THE TERMS OR (IV) USE IN COMBINATION WITH OTHER SOFTWARE NOT APPROVED BY GN AUDIO.
+(C) THE SOFTWARE AND SERVICES DO NOT ACCESS, TRANSMIT OR PROCESS PERSONAL DATA.
+
+11.2 - NOTHING IN THESE TERMS SHALL EXCLUDE OR LIMIT GN AUDIO'S WARRANTY OR LIABILITY TO THE EXTENT SUCH MAY NOT BE LAWFULLY EXCLUDED OR LIMITED. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES OR IMPLIED WARRANTIES. ACCORDINGLY, THESE LIMITATIONS DO NOT AFFECT YOUR LEGAL STATUTORY RIGHTS UNDER YOUR APPLICABLE NATIONAL OR LOCAL LAW.
+
+11.3 – EXCEPT AS PROVIDED IN 11.1, YOU EXPRESSLY ACCEPT THAT ANY USE OF THE SERVICES IS AT YOUR OWN RISK AND THAT THE SERVICES ARE PROVIDED "AS IS".
+
+11.4 – EXCEPT AS PROVIDED IN 11.1, YOU UNDERSTAND THAT GN AUDIO, ITS AFFILIATES AND ITS LICENSORS DO NOT REPRESENT OR WARRANT THAT:
+(a) THE SERVICES WILL MEET YOUR NEED,
+(b) PROVISION OF THE SERVICES WILL BE UNINTERRUPTED, SECURE OR FREE FROM ERROR,
+(c) ANY INFORMATION OBTAINED AS A RESULT OF USE OF THE SERVICES WILL BE ACCURATE OR RELIABLE, AND
+(d) THAT DEFECTS IN THE OPERATION OR FUNCTIONALITY OF ANY SOFTWARE PROVIDED AS PART OF THE SERVICES WILL BE CORRECTED.
+
+11.5 – EXCEPT AS PROVIDED IN 11.1, YOU ACCEPT THAT ANY USE OF THE SERVICES IS AT YOUR OWN RISK AND YOU ALONE ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR EQUIPMENT, INCLUDING LOSS OF DATA, AS A RESULT OF YOUR USE OF THE SERVICES.
+
+11.6 - EXCEPT TO THE EXTENT PROHIBITED BY LAW AND AS PROVIDED IN 11.1, THIS WARRANTY IS EXCLUSIVE AND IN LIEU OF ALL OTHER EXPRESS AND IMPLIED WARRANTIES WHATSOEVER. GN AUDIO EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES, THE WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE.
+
+12. LIMITATION OF LIABILITY
+12.1 - NEITHER PARTY NOR ITS AFFILIATES AND ITS LICENSORS SHALL BE LIABLE TO THE OTHER FOR ANY INDIRECT, INCIDENTAL, SPECIAL CONSEQUENTIAL OR EXEMPLARY DAMAGES HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY, INCLUDING BUT NOT LIMITED TO, ANY LOSS OF PROFIT, LOSS OF GOODWILL OR BUSINESS REPUTATION, LOSS OF DATA, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR OTHER INTANGIBLE LOSSES; AND
+(b) GN AUDIO SHALL IN NO EVENT BE HELD LIABLE FOR LOSSES IN EXCESS OF DKK [2.000.000] IN AGGREGATE.
+
+13. Indemnity
+13.1 - You agree to indemnify, defend and hold GN AUDIO harmless from and against all losses, expenses, damages and costs, including reasonable attorney's and experts fees, arising out of or related to any claims made by a third party due to: (a) your use of the Services, or (b) your breach of the Terms and/or any applicable law or regulation or the rights of another due to your use of the Services. This indemnity obligation shall survive termination of this Agreement, including your cessation with regard to your use of the Services. GN AUDIO reserves the right to assume the defense and control of any matter subject to indemnification by you, in which event you shall cooperate fully with GN AUDIO in asserting any available defenses.
+
+14. Advertisements and Other Content
+The Software and Services will not contain any third party advertising, messages or promotions, except where such materials have been approved in writing by you.
+
+15. Changes to the Terms
+15.1 The parties may agree to changes to these terms from time to time. All such changes will be described in a writing signed by both parties.
+
+16. General legal terms
+16.1 - Use of the Services may necessitate that you download additional software or purchase a certain good, which are provided by a third party. Your use of third party software or goods may be subject to separate terms between you and said third party. GN Audio shall not be considered a party to any agreement made between you and the third party provider.
+
+16.2 - The Terms constitute the entire legal agreement between you and GN and govern your use of the Services.
+
+16.3 - You agree that GN Audio may provide you with notices, including notices concerning changes to the Terms, by email or postings on the Services.
+
+16.4 - A party’s failure to exercise or enforce any legal right or remedy which is contained in the Terms (or which a party may have under any applicable law) shall not be considered a formal waiver of that party’s rights or remedies and such rights or remedies shall be available to the party at any time.
+
+16.5 - If any provision of this Agreement is held to be invalid, illegal or unenforceable, such determination shall not affect the validity of the remaining provisions which shall continue to be valid and enforceable.
+
+16.6 - You accept that all companies which are part of the GN Audio group shall be third party beneficiaries to the Terms and that they shall be entitled to rely upon and directly enforce any provision of the Terms.
+
+16.7 - These Terms shall be governed by the laws of the England without regard to its choice of law provisions. Furthermore, you agree that the United Nations Convention on Contracts for the International Sale of Goods shall not apply. The parties agree to submit to the exclusive jurisdiction of the courts of England to resolve any legal matter arising from the Terms.
+
+16.8 – By signing these Terms the Developer agrees that
+(a) you have read and accepted the Privacy Policy and accept to submit personal information as part of the registration process for the Service, or as a requirement for your continued use of the Services. You warrant that any information provided GN Audio will be materially accurate, correct and up to date;
+(b) you want to share your data with GN Audio with the purpose of optimizing the devices and applications; and
+(c) GN Audio may contact you in relation to the Services provided under this Agreement.
+
+16.8 – By signing these Terms GN Audio confirms that no other developer will receive a higher level of support than the Developer.
