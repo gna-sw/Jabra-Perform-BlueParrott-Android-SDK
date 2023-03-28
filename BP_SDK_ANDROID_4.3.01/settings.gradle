@@ -1,2 +1,0 @@
-include ':blueparrottsdkdemo', ':blueparrottsdkaudiodemo', ':blueparrottsdkconnectsample', ':blueparrottsdk-release'
-
