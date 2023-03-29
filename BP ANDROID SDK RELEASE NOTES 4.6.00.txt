@@ -1,6 +1,6 @@
 BlueParrott SDK v4.6.00
 
-Included in zip :
+Included:
 - blueparrottsdk-release  - .aar file to import into your Android Studio project
 - blueparrottsdkdemo - basic demo that shows how to connect to sdk, enable the sdk, listen for button events and update config settings on headset
 - javadocs  - java reference documentation
