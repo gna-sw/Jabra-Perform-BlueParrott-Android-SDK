@@ -186,7 +186,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-  Copyright  [2017-2023] GN Audio A/S. All rights reserved.  Jabra© and BlueParrott© are trademarks of GN Audio A/S.
+  Copyright  [2017-2026] GN A/S. All rights reserved.  Jabra© and BlueParrott© are trademarks of GN A/S.
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
